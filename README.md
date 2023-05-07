@@ -1,5 +1,5 @@
 # Chotnipa_Ruttana.
-All my data project ⭐️
+⭐️ All my data project 
 
 - Google sheets
 - SQL
