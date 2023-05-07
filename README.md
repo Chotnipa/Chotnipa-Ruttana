@@ -1,4 +1,4 @@
-# Chotnipa-Ruttana.
+# Chotnipa_Ruttana.
 All my data project ⭐️
 
 - Google sheets
